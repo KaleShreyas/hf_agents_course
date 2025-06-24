@@ -8,7 +8,7 @@ How Agents work and how to build your own Agents using the latest libraries and 
 - 🏆 Participate in challenges where you will evaluate your agents against other students’.
 - 🎓 Earn a certificate of completion by completing assignments.
 
-# 1. Introduction to Agents
+## Introduction to Agents
 - Understanding Agents
     - What is an Agent, and how does it work?
     - How do Agents make decisions using reasoning and planning?
